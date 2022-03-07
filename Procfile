@@ -1,1 +1,1 @@
-web: gunicorn djangoherokuTest.wsgi
+web: gunicorn djangoHerokuTest.wsgi
